@@ -1,0 +1,8 @@
+.redtext {
+    color: rgba(250,0,0,0.9) !important;
+}
+
+.contactTable {
+    border-collapse: collapse;
+    border: 1px solid blueviolet;
+}
